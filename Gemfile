@@ -4,7 +4,7 @@ platforms :jruby do
   gem 'jruby-openssl', '~> 0.7'
 end
 
-gem 'ruby-openid', '2.1.8', :git => 'git://github.com/mbleigh/ruby-openid.git'
+gem 'ruby-openid', '2.1.8', :git => 'https://github.com/evilmarty/ruby-openid'
 
 gemspec
 
