@@ -1,3 +1,6 @@
+This repo is identical to it's parent, but it points to a fork of ruby-openid that works in ruby 1.9.2
+====================================
+
 # OmniAuth::OpenID 
 
 Provides strategies for authenticating to providers using the OpenID standard. 
